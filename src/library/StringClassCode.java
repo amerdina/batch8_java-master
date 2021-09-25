@@ -37,6 +37,11 @@ public static void print(){
 	System.out.print (str);
 	}}}
 		
+	public static void print(){
+		String str=" Hello World";		
+		for(int i=0;i<=5;i++) {
+		System.out.print (str);
+		}}}
  
 	
  
